@@ -1,0 +1,20 @@
+{
+  "name": "Amy Hong",
+  "email": "hi@amyhong.dev",
+  "github": "https://github.com/amyhong52",
+  "linkedin": "https://www.linkedin.com/in/amyhong0502/",
+  "skills": [
+    "Ruby",
+    "Ruby on Rails",
+    "Python",
+    "PostgreSQL",
+    "Git",
+    "JavaScript",
+    "CoffeeScript",
+    "Vue.js",
+    "HTML",
+    "CSS"
+  ],
+  "location": "Vancouver, BC",
+  "hobbies": ["Painting", "Reading", "Listening to music"]
+}
